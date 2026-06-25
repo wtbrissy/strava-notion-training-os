@@ -1,6 +1,7 @@
 # Strava to Notion Training OS
 
 A Python-based personal training automation system that syncs Strava activities into Notion and generates a local visual training dashboard.
+
 📖 Medium write-up: [Training in Dad Mode: How I Built a Strava-to-Notion Dashboard with Python](https://medium.com/@winston.liang/training-in-dad-mode-how-i-built-a-strava-to-notion-dashboard-with-python-463ea5a672a1)
 
 ## Features
