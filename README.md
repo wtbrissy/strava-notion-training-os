@@ -13,6 +13,14 @@ A Python-based personal training automation system that syncs Strava activities 
 - Visualise weekly distance, training time, activity mix, and running pace vs heart rate
 - Supports daily automation with Windows Task Scheduler
 
+
+## Dashboard Preview
+
+The dashboard focuses on recent training trends. The example below shows weekly training distance by sport over the last 60 days.
+
+![Weekly training distance by sport](screenshots/weekly_distance_by_sport.png)
+
+
 ## Tech Stack
 
 - Python
